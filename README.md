@@ -1,4 +1,24 @@
-### Hi there 👋
+## About sonodar
+
+Hi, I'm a full stack engineer.
+
+### My specialty skills
+
+<img alt="aws,ts,java" src="https://skillicons.dev/icons?theme=light&i=aws,ts,java" />
+
+* terraform
+
+### My ordinary skills
+
+<img alt="nuxtjs,vue,react,js,jest,nodejs,webpack,spring,rust,html,css,sass,ruby,rails,cs,dotnet,bash,regex,git,gitlab,jenkins,docker,linux,postgresa" src="https://skillicons.dev/icons?theme=light&perline=8&i=nuxtjs,vue,react,js,jest,nodejs,webpack,spring,rust,html,css,sass,ruby,rails,cs,dotnet,bash,regex,git,gitlab,jenkins,docker,linux,postgresa" />
+
+
+### Other my experienced skills
+
+<img alt="jquery,nestjs,prisma,express,svelte,graphql,php,wordpress,py,elixir,go,deno,nim,dart,flutter,kotlin,gradle,ansible,nginx,redis" src="https://skillicons.dev/icons?theme=light&perline=8&i=jquery,nestjs,prisma,express,svelte,graphql,php,wordpress,py,elixir,go,deno,nim,dart,flutter,kotlin,gradle,ansible,nginx,redis" />
+
+
+## Status
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=sonodar&count_private=true&show_icons=true&theme=vue" />

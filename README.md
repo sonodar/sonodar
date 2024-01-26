@@ -4,8 +4,7 @@ Hi, I'm a full stack engineer.
 
 ### Blog
 
-Articles posted by myself on my company's tech blog. 
-> https://www.m3tech.blog/archive/author/ryoheisonoda
+[M3 Tech Blog](https://www.m3tech.blog/archive/author/ryoheisonoda): Articles posted by myself on my company's tech blog. 
 
 ### My specialty skills
 
